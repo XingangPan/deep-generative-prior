@@ -2,7 +2,7 @@
 
 ### Paper
 
-Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo, "Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation"
+Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo, "[Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation](https://arxiv.org/abs/2003.13659)"
 
 ### Demos
 
@@ -63,7 +63,7 @@ The code of BigGAN is borrowed from [https://github.com/ajbrock/BigGAN-PyTorch](
 @article{pan2020dgp,
   author = {Pan, Xingang and Zhan, Xiaohang and Dai, Bo and Lin, Dahua and Loy, Chen Change and Luo, Ping},
   title = {Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation},
-  journal = {arxiv preprint},
+  journal = {arxiv preprint arxiv:2003.13659},
   year = {2020}
 }
 ```  
