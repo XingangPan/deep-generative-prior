@@ -2,7 +2,9 @@
 
 ### Paper
 
-Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo, "[Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation](https://arxiv.org/abs/2003.13659)", ECCV2020 (**Oral**)
+Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo, "[Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation](https://arxiv.org/abs/2003.13659)", ECCV2020 (**Oral**)  
+
+Video: https://youtu.be/p7ToqtwfVko<br>
 
 ### Demos
 
@@ -11,13 +13,13 @@ DGP exploits the image prior of an off-the-shelf GAN for various image restorati
 **Image restoration**:
 
 <p align="center">
-    <img src="data/restoration.gif", width="600">
+    <img src="data/restoration.gif", width="900">
 </p>
 
 **Image manipulation**:
 
 <p align="center">
-    <img src="data/manipulation.gif", width="500">
+    <img src="data/manipulation.gif", width="800">
 </p>
 
 ### Requirements

@@ -235,10 +235,10 @@ class DGP(object):
             self.jitter(x)
         if self.config['save_G']:
             torch.save(
-                self.G.state_dict().cpu(), '%s/G_%s_%s.pth' %
+                self.G.state_dict(), '%s/G_%s_%s.pth' %
                 (self.config['exp_path'], self.img_name, self.mode))
             torch.save(
-                self.z.cpu(), '%s/z_%s_%s.pth' %
+                self.z, '%s/z_%s_%s.pth' %
                 (self.config['exp_path'], self.img_name, self.mode))
         return loss_dict
 
