@@ -22,7 +22,6 @@ class PerceptLoss(object):
 class DiscriminatorLoss(object):
 
     def __init__(self, ftr_num=4, data_parallel=False):
-        self.l2 = nn.MSELoss()
         self.data_parallel = data_parallel
         self.ftr_num = ftr_num
 
