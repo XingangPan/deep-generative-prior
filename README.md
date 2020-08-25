@@ -22,6 +22,12 @@ DGP exploits the image prior of an off-the-shelf GAN for various image restorati
     <img src="data/manipulation.gif", width="800">
 </p>
 
+A **learned prior** helps **internal learning**:
+
+<p align="center">
+    <img src="data/windows.png", width="900">
+</p>
+
 ### Requirements
 
 * python>=3.6
