@@ -68,10 +68,10 @@ The code of BigGAN is borrowed from [https://github.com/ajbrock/BigGAN-PyTorch](
 ### Citation
 
 ```  
-@article{pan2020dgp,
+@inproceedings{pan2020dgp,
   author = {Pan, Xingang and Zhan, Xiaohang and Dai, Bo and Lin, Dahua and Loy, Chen Change and Luo, Ping},
   title = {Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation},
-  journal = {European Conference on Computer Vision (ECCV)},
+  booktitle = {European Conference on Computer Vision (ECCV)},
   year = {2020}
 }
 ```  
